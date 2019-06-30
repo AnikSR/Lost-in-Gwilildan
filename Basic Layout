@@ -1,0 +1,27 @@
+Level 1: Find 5-10 playing cards for an old man and sort them using insertion sort.
+Level 2: Find 4 Keys and match them with keyholes using Stable matching algorithm.
+Level 3: Sort a set of piano keys to make a complete note.
+Level 4: Shortest path algorithm?
+Level 5: A big Empty room with a big holographic crystal instde. To go through the crystal have to be transformed. The task is to
+         find out the 9 components of transformation matrix:
+         (i) Travel through previous layers to find individual components.
+         (ii) Individual components will be in the form [a,0,0] or [0,b,0] or [0,0,c].
+         (iii)  Added together they will form the vector [a,b,c].
+         (iv) After finding each tripple, they have to be added (with vector addition ritual).
+         (v) So which one's are related to which, should be given in the instruction in the crystal.
+# As there are 9 components, may be additional 5-6 levels have to be designed to make 9-10 levels.
+# Together with travelling to old levels it will make up total 20 levels!
+# May be there will be a small one level tutorial teaching basic algorithms and acquainting people with vector.
+# Vectors will be represented as movements or arrows representing movements.
+# Can a 2d game handle this much complexity?
+# A game must include human things. So the algorithms must be wrapped with human things like:
+    1) Finding lost loved ones - the central motive for the game?
+    2) Fighting enemies. Will it be too tough to animate?
+# What kind of world will it be?
+
+To Do:
+1. List the algorithms:
+    So far listed: Insertion sort, stable matching, merge sort, shortest path, travelling salesman algorithm for L 1, 2, 3, 4, 5.
+2. Take inspiration from Puzzle and adventure mix genere games (like Limbo). As this will best be one such game.
+3. The story can take inspiration from Shade 3. Really good animation is a big part of that game. We'll only focus on how the story
+   involves us in the hunch of unravelling mystery.
